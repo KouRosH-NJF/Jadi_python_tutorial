@@ -1,5 +1,6 @@
 """
 ns = "0123456789"
+#slicing strings
 print (ns[0])
 print (ns[5])
 print (ns[2:5])
